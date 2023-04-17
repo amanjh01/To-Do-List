@@ -1,6 +1,6 @@
 # To-Do-List
 
-This is a simple TO-Do List eveloped by usig basic knowledge of
+This is a simple TO-Do List developed by usig basic knowledge of
   - HTML
   - CSS
   - JS
